@@ -15,7 +15,7 @@ Hola! Mi nombre es Matías Ramírez Castillo
 </pre>
 <hr>
 
-## 🤝 Contacto
+## :iphone: Contacto
 
 <p align="center">
 	<a href="mailto:matiasramirezcastillo25@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
