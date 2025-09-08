@@ -10,7 +10,7 @@ Hola! Mi nombre es Matías Ramírez Castillo
 <pre>
 📚 Ingeniero Civil Industrial, MSc. Data Science
 📝 Grandes intereses en Machine Learning, con especial enfoque en NN
-🛠️ Actualmente trabajando en combinar las NN con Trading! 
+🛠️ Actualmente un nuevo ERP de control empresarial! 
 🌟 Main language: Python
 </pre>
 <hr>
